@@ -232,46 +232,34 @@ show_image(cropped_image)
 
 ## Output:
 ### i)Image Translation
-<br>
-<br>
-<br>
-<br>
+![image](https://github.com/user-attachments/assets/cdc59226-81da-4fbc-ae6c-9ff8f0442222)
+
 
 ### ii) Image Scaling
-<br>
-<br>
-<br>
-<br>
+
+![image](https://github.com/user-attachments/assets/41ece03d-31c0-4d27-8bf6-a996ab5deff2)
 
 
 ### iii)Image shearing
-<br>
-<br>
-<br>
-<br>
+
+![image](https://github.com/user-attachments/assets/c3e99194-7c0a-409f-b3a1-9dc1517f8d39)
 
 
 ### iv)Image Reflection
-<br>
-<br>
-<br>
-<br>
+
+![image](https://github.com/user-attachments/assets/c119f85e-02f2-4b9f-91b0-c8d5923b2dd1)
 
 
 
 ### v)Image Rotation
-<br>
-<br>
-<br>
-<br>
+![image](https://github.com/user-attachments/assets/9c0baf3e-3aa1-4db3-bf05-e7589c4014b0)
+
 
 
 
 ### vi)Image Cropping
-<br>
-<br>
-<br>
-<br>
+
+![image](https://github.com/user-attachments/assets/bbb6a864-6b0b-4250-8fdb-5d54776c84cd)
 
 
 
